@@ -1,4 +1,6 @@
+
 {
+  "homepage": "https://garfieldvans.github.io/streaming-web/",
   "name": "landingpage",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +24,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
     "react-router-dom": "^6.20.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "5.0.1",
     "styled-components": "^5.3.11",
     "web-vitals": "^2.1.4"
   },
