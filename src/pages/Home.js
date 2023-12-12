@@ -25,7 +25,7 @@ const HomeSection = () => {
       try {
         const datas = await fetchAnimeData();
         setAnimeData(datas.data);
-        console.log(datas.data);
+        // console.log(datas.data);
       } catch (error) {
         console.error("Error fetching data:", error);
       }
